@@ -11,7 +11,7 @@
     "extend": "^3.0.0",
     "gulp": "^4.0.2",
     "gulp-data": "^1.2.0",
-    "gulp-file": "^0.2.0",
+    "gulp-file": "^0.4.0",
     "gulp-gh-pages": "git+https://github.com/tekd/gulp-gh-pages.git",
     "gulp-load-plugins": "^1.6.0",
     "gulp-reduce-file": "0.0.1",
